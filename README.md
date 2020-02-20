@@ -11,4 +11,4 @@ Objectives:
 - What can the company change to be more profitable
 - Finding refund rate
 
-**Important: Please do not add CSV files here**
+**Important: Please do not add CSV files related to real business sets**
